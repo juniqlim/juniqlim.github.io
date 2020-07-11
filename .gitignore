@@ -1,1 +1,22 @@
 /.idea/
+/.gradle/
+/gradle/
+gradlew
+gradlew.bat
+
+## MacOS
+*.DS_Store
+.bundle
+.sass-cache
+node_modules
+package.json
+
+## Jekyll stuff
+/_site/
+/.jekyll-cache/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock
